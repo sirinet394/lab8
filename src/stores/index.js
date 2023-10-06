@@ -7,31 +7,31 @@ export const useShoppingStore = defineStore('shopping', {
             products: [
                 {
                     id: 1,
-                    name: 'GARUDA PRO WIRELESS GAMING MOUSE',
-                    price: 700,
-                    image: 'https://www.logaworld.com/cdn/shop/products/ThumnailAllproduct-21_1000x.jpg?v=1640688850',
-                    titles: 'Garuda Pro wireless is a symmetrical shape and feather light mouse. Its cover is changeable and the height is adjustable to suit everyone’s palm. Garuda Pro wireless comes with both solid and holes covers.'
+                    name: 'Dinosaur',
+                    price: 200,
+                    image: 'https://images.vrtwinshop.com/99269/conversions/799656b0421e6c35ecc777a262fb1144-optimized.jpg',
+                    titles: 'ตุ๊กตาน้องไดโนเสาร์  สูง 4.5-5 นิ้ว กว้าง 2.5-3 นิ้ว ใช้เวลาผลิต 7 - 30 วัน เนื่องจากเป็นงานฝีมือ'
                 },
                 {
                     id: 2,
-                    name: 'nubwo nm89w',
-                    price: 400,
-                    image: 'https://th-test-11.slatic.net/p/a08a83a4b8e1fb6616458f1e96cbc3d0.jpg',
-                    titles: 'RGB Light Effect, Light up your game desktop in the dark night create an amazing gaming atmosphere at your preference'
+                    name: 'dog',
+                    price: 180,
+                    image: 'https://i.pinimg.com/200x150/50/43/3a/50433ad7deb22c83952290c6b2fea127.jpg',
+                    titles: 'ตุ๊กตาน้องหมา สูง 4.5-5 นิ้ว กว้าง 2.5-3 นิ้ว ใช้เวลาผลิต 7 - 30 วัน เนื่องจากเป็นงานฝีมือ'
                 },
                 {
                     id: 3,
-                    name: 'Logitech G502 hero wireless',
-                    price: 1200,
-                    image: 'https://resource.logitechg.com/w_692,c_lpad,ar_4:3,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/gaming/en/products/g502-lightspeed-gaming-mouse/g502-lightspeed-gallery-2.png?v=1',
-                    titles: 'G502 รุ่นยอดนิยมออกแบบมาเพื่อรวมเข้ากับระบบไร้สาย LIGHTSPEED เกรดโปร เพื่อการเชื่อมต่อที่เร็วพิเศษและน่าเชื่อถือ เซ็นเซอร์ HERO 25K โดดเด่นด้วยการติดตามระดับซับไมครอน ความเข้ากันได้ POWERPLAY เพื่อการชาร์จต่อเนื่องขณะพักและเล่น'
+                    name: 'lucky cat',
+                    price: 200,
+                    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1DfEnKd7lBect83RiI47lEjsXLwQRE8fyDlB8xL83MQQa23QN',
+                    titles: 'ตุ๊กตาแมวนำโชค สูง 3 นิ้ว กว้าง 3 นิ้ว ใช้เวลาผลิต 7 - 30 วัน เนื่องจากเป็นงานฝีมือ'
                 },
                 {
                     id: 4,
-                    name: 'rk61 wireless',
-                    price: 900,
-                    image: 'https://m.media-amazon.com/images/I/61WyVI5McyL._AC_UF1000,1000_QL80_.jpg',
-                    titles: 'RK61 รุ่นยอดยินม ขนาดเล็กกระทัดลัดพกพาง่าย เหมาะสมกับการใช้งานนอกสถานที่ และมาพร้อมกับระบบไร้สาย'
+                    name: 'Lemon',
+                    price: 150,
+                    image: 'https://i.pinimg.com/236x/68/ea/70/68ea705218be9a842e8c76cc3f7253cc--food-networktrisha-play-food.jpg',
+                    titles: 'ตุ๊กตาน้องเลมอน สูง 3 นิ้ว กว้าง 3 นิ้ว ใช้เวลาผลิต 7 - 30 วัน เนื่องจากเป็นงานฝีมือ'
                 }
             ],
             cartItems : []
